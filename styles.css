@@ -120,6 +120,12 @@ body {
   text-decoration-line: line-through;
 }
 
+.feature.inactive-pop{
+  color: #444;
+  text-decoration-line: line-through;
+
+}
+
 .most-popular {
   position: absolute;
   top: .5rem;
