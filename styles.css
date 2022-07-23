@@ -160,4 +160,5 @@ body {
 
 .cta:hover, .cta:focus {
   transform: scale(1.1);
+  /* border: solid #444; */
 }
